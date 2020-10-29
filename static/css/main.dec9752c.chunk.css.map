@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css","Form.css"],"names":[],"mappings":"AAAA,KACE,iBAAkB,CAClB,iBACF,CCHA,QACE,WACF","file":"main.dec9752c.chunk.css","sourcesContent":[".App {\r\n  padding: 50px 80px;\r\n  text-align: center;\r\n}\r\n",".button {\n  height: 38px;\n}\n"]}
